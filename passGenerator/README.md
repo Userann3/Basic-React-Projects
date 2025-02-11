@@ -2,13 +2,11 @@
 
 A modern, user-friendly password generator built with **React.js** and **Tailwind CSS**, featuring real-time password generation, customizable options, light/dark mode, and React Toastify for copying.
 
-## 🌙 Dark Mode
-![Password Generator - Dark](public/password-generator-dark.png)
+## ☀️ Dark Mode
+![Screenshot from 2025-02-11 13-38-20](https://github.com/user-attachments/assets/e9db26bb-0276-4661-8d8c-c41976b6cc21)
 
 ## ☀️ Light Mode
-![Password Generator - Light](public/password-generator-light.png)
-
----
+![Screenshot from 2025-02-11 13-38-25](https://github.com/user-attachments/assets/d221d60a-cd79-4af9-bce1-b520d17e9121)
 
 ## 🚀 Features
 - ✅ **Real-time password generation**
