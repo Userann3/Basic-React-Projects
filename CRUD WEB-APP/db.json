@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "3693",
+      "name": "Aaditya Rana",
+      "email": "aadityarana900@gmail.com",
+      "position": "company ka malik"
+    },
+    {
+      "id": "9c5e",
+      "name": "parveen",
+      "email": "parvvenHulk@gmail.com",
+      "position": "chaprasi"
+    }
+  ]
+}
