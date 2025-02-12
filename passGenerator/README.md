@@ -46,7 +46,7 @@ A modern, user-friendly password generator built with **React.js** and **Tailwin
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Userann3/password-generator.git
    ```
 2. **Navigate to the project directory:**
    ```sh
