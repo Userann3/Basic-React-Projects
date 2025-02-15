@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "id": "dc21",
+      "name": "Aaditya Rana",
+      "email": "aadityarana900@gmail.com",
+      "position": "hr",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=26g1fi"
+    }
+  ]
+}
