@@ -1,12 +1,54 @@
-# React + Vite
+# Background Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based background changer that allows users to switch the background color by clicking buttons. The project uses basic React concepts and an external CSS file for styling.
 
-Currently, two official plugins are available:
+## Features
+- Change background color by clicking buttons.
+- Smooth transition effect for a better user experience.
+- Reset button to revert to the default background.
+- Modern UI with stylish buttons and a centered content area.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- External CSS for styling
 
-## Expanding the ESLint configuration
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Userann3/Basic-React-Projects/tree/main/simpleBgChnager
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd bg-changer
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Usage
+- Click on the colored buttons to change the background color.
+- Click the "Reset" button to restore the default color.
+
+## File Structure
+```
+Bg-Changer/
+│── src/
+│   ├── components/
+│   │   ├── BgChanger.js
+│   ├── styles.css
+│── public/
+│── package.json
+│── README.md
+```
+
+## Contributing
+If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+## License
+This project is open-source and available under the MIT License.
+
